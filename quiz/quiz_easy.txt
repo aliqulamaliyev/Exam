@@ -1,0 +1,20 @@
+What is 2 +2 ? [A] 99 [B] 0 [C] 4 [D] 0
+C
+What is capital of Azerbaijan? [A] Quba [B] Naxcivan [C] Lerik [D] Baku
+D
+What does a monkey eat? [A] meat [B] banana [C] apple [D] orange
+B
+Who is Spiderman? [A] Peter Parker [B] Will Smith [C] Jony Deph [D] Cristiano Ronaldo
+A
+What year did WW2 end? [A] 2022 [B] 1941 [C] 1945 [D] 1933
+C
+What is 10 +12 ? [A] 123 [B] 45 [C] 22 [D] 999
+C
+Which one is written correct? [A] nepcil [B] cepnil [C] ilcepn [D] pencil
+D
+How namy colos is on a Azerbaijanian flag? [A] 5 [B] 3 [C] 4 [D] 6
+B
+What color is a mirror? [A] White [B] Has no color [C] Transparent [D] Green
+A
+How many finger do we have on our hands? [A] 11 [B] 9 [C] 10 [D] 22
+C
